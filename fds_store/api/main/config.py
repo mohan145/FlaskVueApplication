@@ -2,8 +2,8 @@ db_config ={
     'DEV':{
         'DRIVER':"postgresql",
         'USERNAME':"postgres",
-        'PASSWORD':"123Welcome",
-        'HOST':"192.168.1.6",
+        'PASSWORD':"d37@u!t90",
+        'HOST':"localhost",
         'PORT':'5432',
         'DB_NAME':'postgres'
     },
